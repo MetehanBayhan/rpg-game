@@ -1,2 +1,2 @@
 # rpg-game
- Simple rpg game with next-level.js and ES6
+ Simple rpg game with next-level.js and ES6 ⚔️
